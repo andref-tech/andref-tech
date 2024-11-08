@@ -1,4 +1,4 @@
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbcPtiy9VNxP1qeUdP-ANVhvt6HESyD6XlQ&s](https://static.vecteezy.com/system/resources/previews/002/202/047/non_2x/blue-high-tech-futuristic-cyberspace-technology-background-free-vector.jpg)" alt="Logo do Projeto" width="900">
+<img src="https://static.vecteezy.com/system/resources/previews/002/202/047/non_2x/blue-high-tech-futuristic-cyberspace-technology-background-free-vector.jpg" alt="Logo do Projeto" width="900">
 
 
 # 👋 Olá! André da Fonseca
