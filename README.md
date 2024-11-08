@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbcPtiy9VNxP1qeUdP-ANVhvt6HESyD6XlQ&s" alt="Logo do Projeto" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbcPtiy9VNxP1qeUdP-ANVhvt6HESyD6XlQ&s" alt="Logo do Projeto" width="900">
 
 
 # 👋 Olá! André da Fonseca
